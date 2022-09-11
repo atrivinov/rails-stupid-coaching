@@ -1,24 +1,11 @@
-# README
+Este proyecto fue realizado como solucion a un ejercicio planteado
+en el bootcamp de desarrollo web fullstack de Le Wagon.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+En este ejercicio creamos un proyecto web con dos rutas
+/ask y /asnwer e interactuamos con un input, por medio de params
+recibimos los campos ingresados por el usuario y respodemos la
+peticion dependiendo de la pregunta ingresada.
 
-Things you may want to cover:
+Si deseas conocer mas de mi perfil:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.linkedin.com/in/alexandra-trivino/
